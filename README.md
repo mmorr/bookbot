@@ -1,4 +1,4 @@
 # bookbot
 
 Boot.dev project
-My First Project
+my first project
